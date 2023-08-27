@@ -412,6 +412,7 @@ The above tables coule be better summarized by this wonderful visualization from
 - [HuggingGPT](https://github.com/microsoft/JARVIS) - Solving AI Tasks with ChatGPT and its Friends in HuggingFace.
 - [EasyEdit](https://github.com/zjunlp/EasyEdit) - An easy-to-use framework to edit large language models.
 - [chatgpt-shroud](https://github.com/guyShilo/chatgpt-shroud) - A Chrome extension for OpenAI's ChatGPT, enhancing user privacy by enabling easy hiding and unhiding of chat history. Ideal for privacy during screen shares.
+- [ChatNBX API](https://chat.nbox.ai/) - Unlock limitless potential for your projects with nimblebox.ai! Generate API keys for LLaMA 2, Nous Hermes, Vicuna, Code LLaMA and more, and elevate your chatbots, virtual assistants, content creation, data analysis, and beyond 🚀
 ## Contributing
 
 This is an active repository and your contributions are always welcome!
